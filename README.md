@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo! ��
+# Olá, eu sou o Eduardo! 👋
 
 <a href="https://app.astrixhost.com" target="_blank">
   <img src="https://github.com/Celsomouraneto/zaptrix-system-main/blob/main/public/zaptrix-logo-background.jpg?raw=true" alt="Banner do Projeto Zaptrix">
