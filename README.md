@@ -44,7 +44,7 @@ O Zaptrix foi desenvolvido para ser uma solução completa, com painel de contro
 
 ---
 
-## �� Minhas Habilidades
+## 🛠️ Minhas Habilidades
 
 Estas são algumas das tecnologias e ferramentas com as quais tenho experiência:
 
