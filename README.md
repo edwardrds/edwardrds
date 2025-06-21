@@ -1,7 +1,7 @@
 # Olá, eu sou o Eduardo! 👋
 
 <a href="https://app.astrixhost.com" target="_blank">
-  <img src="https://github.com/Celsomouraneto/zaptrix-system-main/blob/main/public/zaptrix-logo-background.jpg?raw=true" alt="Banner do Projeto Zaptrix">
+  <img src="https://github.com/edwardrds/zaptrix-system-main/blob/main/public/zaptrix-logo-background.jpg?raw=true" alt="Banner do Projeto Zaptrix">
 </a>
 
 <br/>
